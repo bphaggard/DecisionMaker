@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/abeezee</item>
+        <item>@font/aclonica</item>
+        <item>@font/acme</item>
+        <item>@font/aguafina_script</item>
+        <item>@font/alata</item>
+        <item>@font/amita_bold</item>
+        <item>@font/archivo</item>
+        <item>@font/audiowide</item>
+        <item>@font/baloo</item>
+        <item>@font/boogaloo</item>
+        <item>@font/chewy</item>
+        <item>@font/expletus_sans</item>
+        <item>@font/jockey_one</item>
+        <item>@font/londrina_solid</item>
+        <item>@font/prosto_one</item>
+        <item>@font/walter_turncoat</item>
+        <item>@font/zcool_qingke_huangyou</item>
+    </array>
+</resources>

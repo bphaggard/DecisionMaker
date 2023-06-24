@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Decision Maker</string>
+    <string name="zadej_co_m_m_rozhodnout">ZADEJ CO MÁM ROZHODNOUT</string>
+    <string name="name">Name</string>
+    <string name="p_idat">PŘIDAT</string>
+    <string name="textview">TextView</string>
+    <string name="smazat_seznam">SMAZAT SEZNAM</string>
+    <string name="vyber">VYBER</string>
+    <string name="zadej_co_mm_rozhodnout">Zadej co mám rozhodnout</string>
+    <string name="zadej_hodnotu">Zadej hodnotu</string>
+    <string name="plus">+</string>
+    <string name="tv_j_v_b_r">Tvůj výběr</string>
+</resources>
